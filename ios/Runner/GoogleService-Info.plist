@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>284003035045-8ciaosv862fas0no84ntg44cnkl1drub.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.284003035045-8ciaosv862fas0no84ntg44cnkl1drub</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBJ0Egj8aQCtEAiaU_j4xOv6FIEN4fqyfY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>284003035045</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.vitSocial</string>
+	<key>PROJECT_ID</key>
+	<string>vitsocial-82bc5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vitsocial-82bc5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:284003035045:ios:9d88ce163770a89b58ea4c</string>
+</dict>
+</plist>
